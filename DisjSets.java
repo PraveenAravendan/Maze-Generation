@@ -1,7 +1,7 @@
 /**
  * This class is an implementation of a disjoint set data structure which implements
  * both union and find operations using Path compression
- * @author Mark Allen Weiss (Given in Textbook)
+ * @author Mark Allen Weiss
  */
 public class DisjSets
 {
